@@ -20,7 +20,7 @@ public class Test {
         // ++   + 1   ,, pre increment, post increment
         // --   - 1
 
-        int x = 10;
+
 
        // System.out.println(++x);  pre increment
        // System.out.println(--x);  pre decrement
