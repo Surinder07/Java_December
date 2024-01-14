@@ -39,9 +39,7 @@ public class SwitchCaseDemo {
                 break;
             default:
                 System.out.println("Invalid input");
-
         }
-
-
     }
 }
+

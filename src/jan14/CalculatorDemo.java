@@ -34,24 +34,6 @@ public class CalculatorDemo {
 
 }
 /*
-  1. Make an IVR application - Rogers customer service
-  1. Press 1 for English
-            1. Mobile
-                1. Tech support
-                2. Billing
-                3. exit
-            2. Internet
-                1. Tech support
-                2. Billing
-                3. exit
-            3. TV
-                 1. Tech support
-                 2. Billing
-                3. exit
-
-            4. Exit
-  2. Press 2 French
-     "Welcome to French choice"
 
 
  */
