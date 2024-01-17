@@ -36,3 +36,7 @@ Welcome to Mobile billing
    'A'--->  Execellent 
     'B' ----> 
      'C'  ---> 
+
+Tuesday   8 pm -10  - online
+Thursday  8 pm- 10  - online
+Saturday  10 am - 2 pm   - Hybrid 
