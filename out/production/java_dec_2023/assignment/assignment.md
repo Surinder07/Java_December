@@ -40,3 +40,11 @@ Welcome to Mobile billing
 Tuesday   8 pm -10  - online
 Thursday  8 pm- 10  - online
 Saturday  10 am - 2 pm   - Hybrid 
+
+
+## 
+
+
+## Jan 20  []
+Github : github repo
+calculate the area of circle,square, rectangle using methods. 
