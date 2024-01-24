@@ -17,3 +17,4 @@ int thisismynewvariableinjava = 10;
         // variables - first letter should be small
         // packages - all letters small 
         int thisIsMyNewVariableInJavaa = 20;
+        I added these changes. 
