@@ -5,27 +5,22 @@ public class Date {
     int month;
     int year;
 
-    // default const
-    //1
-    public Date(){
-        day = 23;
-        month = 01;
-        year = 2024;
+    public Date() {
     }
-    //2
-    public Date(int day, int month){
-         // calling default const
-        this();
-        this.day = day;
-        this.month = month;
 
-    }
-    //3
-    public Date(int day, int month, int year){
-        this(day, month);// const call
+    public Date(int day, int month, int year) {
         this.day = day;
         this.month = month;
         this.year = year;
+    }
+
+    public Date(int day, int month) {
+        this.day = day;
+        this.month = month;
+    }
+
+    public Date(int day) {
+        this.day = day;
     }
 
     public void printDate(){

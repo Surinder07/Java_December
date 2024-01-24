@@ -44,3 +44,18 @@ Main--> create 2-3 objects of the book.
 
 ## Constructor chaining 
 call const from another const 
+
+## Types of variables 
+1. local variable
+2. Global variable / instance variable 
+3. static variable 
+
+
+
+## Static 
+1. variable 
+2. method 
+3. static block
+4. static Nested class 
+
+## Instance Block 
