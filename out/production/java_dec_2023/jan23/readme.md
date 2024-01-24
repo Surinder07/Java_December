@@ -24,3 +24,23 @@ Student ---- > Student()
 types of const 
 1. Default const / Non -para
 2. Parameterized 
+
+## this - keyword 
+refers to the current class instance 
+
+
+## Practice problem 
+Book class 
+1. String title 
+2. String author 
+3. int publicationYear;
+
+Constructor ---
+
+create method to print the info of the book 
+
+Main--> create 2-3 objects of the book.
+
+
+## Constructor chaining 
+call const from another const 
