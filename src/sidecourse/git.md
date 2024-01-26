@@ -69,9 +69,25 @@ to be commited]
 
 Branch 
 
-      -- 
+      --
 
+## Branch 
+create branch - git branch branch_name 
+switch branch - git checkout branch_name
 
+swich and create at same time -- git checkout -b branch_name 
+
+## merge 
+A branch B 
+
+checkout to the branch where you want to merge 
+git checkout B
+git merge A
+
+## Stash
+git stash 
+git stash pop
+git stash apply
 
 
 
