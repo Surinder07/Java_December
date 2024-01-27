@@ -23,5 +23,5 @@ public class Student {
 }
 
 // create a class , create a variable [int counter]
-// create a method and increment the counter and print the counter
+// create a method and increment the couxnter and print the counter
 // create 4-5 objects and call this method

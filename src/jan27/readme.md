@@ -18,6 +18,10 @@ String companyName ---4 Bytes
 shareable property of the object 
 
 2. method 
+
+
+
+
 3. block 
 4. nested class 
 
