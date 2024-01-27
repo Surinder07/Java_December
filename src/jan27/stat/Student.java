@@ -21,3 +21,7 @@ public class Student {
         System.out.println("Student Details : " + id +"  "+firstName +" "+ lastName + " "+ companyName);
     }
 }
+
+// create a class , create a variable [int counter]
+// create a method and increment the counter and print the counter
+// create 4-5 objects and call this method
