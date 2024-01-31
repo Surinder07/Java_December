@@ -8,7 +8,7 @@ public class ArrayDemo {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the elements of array");
-        int[] arr = new int[5];
+        char[] arr = {'a','b','c'};
 
         int[] num;
 
