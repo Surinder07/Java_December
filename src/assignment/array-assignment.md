@@ -13,6 +13,5 @@ number[] = 10,30,43,54,23,543,43,32
 int[][] array1= {{54,12,4}, {2,36,40}, {6,4,5}}
 int[][] array2 = {{2,9,40}, {5,3,6}, {3,5,12}}
 10. create a char array 
-characters A , B , C , D 
-REST API 
+characters A , B , C , D
 11. Strings 
