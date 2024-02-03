@@ -28,3 +28,13 @@ both in the Heap area
 
 properties 
 1. Immutable ?   we can not change the string 
+
+
+# Contatenation 
+   '+'   [overloaded operator]
+
+concat()
+
+
+ 
+
