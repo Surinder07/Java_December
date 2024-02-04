@@ -8,6 +8,8 @@ public class StringTest {
 
        /* String concat = name.concat(" Inc");
         System.out.println(concat);
+        6 5 7 4 8 6
+
 
         int length = name.length();
         System.out.println(length);
@@ -30,6 +32,7 @@ public class StringTest {
         System.out.println(p);
 
         // 10 - 15 minutes
+
 
 
     }

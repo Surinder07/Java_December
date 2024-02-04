@@ -36,5 +36,15 @@ properties
 concat()
 
 
- 
 
+
+Tuesday, sat - -Java core
+thursday ---> unix, git, Rest api, Jenkins, AWS, Datbase(MYSQL)
+28 feb core java 
+
+ 
+Spring - advance java 
+Project 
+FE - js / react
+
+QA - Selenium 
