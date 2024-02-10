@@ -19,8 +19,14 @@ public class MainLogin {
 
         loginUser.loginUser("Pragra", "MyPassword");
 
-
-
-
     }
 }
+/*
+
+Make two classes
+1. read only class
+2. write only class
+3. both - read and write
+
+
+ */
