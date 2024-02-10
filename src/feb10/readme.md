@@ -36,6 +36,18 @@ Employee Has Address
 
 
 
+## Polymorphism 
+
+compile time polymorphism 
+Method overloading ?[within same class ] same method name diff parameters 
+
+Runtime polymorphism 
+Method overriding [inheritance ] - same method diff behaviour
+
+
+[interview] 
+method overloading vs overriding 
+
 
 
 

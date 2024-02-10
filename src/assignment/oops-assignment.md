@@ -25,24 +25,6 @@ by [creating objects of Car, Motorcycle, and ElectricCar and calling their metho
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Polymorphism 
 
 You are developing a simple payroll system for a company. The company has different types of employees, including full-time employees and part-time employees. Each employee is paid based on their specific type, and the calculation may vary depending on whether the employee is full-time or part-time.

@@ -10,15 +10,10 @@ public class MainLogin {
         loginUser.userName = "hacker";
         loginUser.password = "hacker";
 */
-
-
         String userName = loginUser.getUserName();
         System.out.println("This is your username : " + userName);
-
         loginUser.setPassword("MyPassword");
-
-        loginUser.loginUser("Pragra", "MyPassword");
-
+        loginUser.loginUser("Pragra", "pragra123");
     }
 }
 /*
