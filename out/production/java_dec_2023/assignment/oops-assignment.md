@@ -25,24 +25,6 @@ by [creating objects of Car, Motorcycle, and ElectricCar and calling their metho
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Polymorphism 
 
 You are developing a simple payroll system for a company. The company has different types of employees, including full-time employees and part-time employees. Each employee is paid based on their specific type, and the calculation may vary depending on whether the employee is full-time or part-time.
@@ -55,3 +37,5 @@ A Employee class with attributes for employee ID and name, and a method calculat
 A FullTimeEmployee class that inherits from the Employee class and overrides the calculatePay() method to calculate the pay for a full-time employee.
 A PartTimeEmployee class that inherits from the Employee class and overrides the calculatePay() method to calculate the pay for a part-time employee.
 A Main class to demonstrate the functionality of these classes by creating objects of FullTimeEmployee and PartTimeEmployee and calling their calculatePay() methods.
+
+
