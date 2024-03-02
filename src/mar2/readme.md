@@ -24,3 +24,10 @@ Map interface
 1. HashMap 
 2. TreeMap
 3. LinkedHashMap 
+
+
+Internal HashMap 
+
+Arrays of LinkedList 
+
+ map.put(obj) ---->  {f(x) hashfunction } --------->  hashcode [3]

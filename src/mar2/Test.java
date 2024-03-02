@@ -1,15 +1,30 @@
 package mar2;
 
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class Test {
     public static void main(String[] args) {
 
         //List Set
         // create hashmap
+
+        List<Integer> list = new ArrayList<>();
+        list.add(10);   // 10
+        list.add(20);
+        list.add(20);
+        list.add(40);  // command + d
+
+        HashSet<Integer> hashSet = new HashSet<>(list);
+        System.out.println("hashset  : "+hashSet);
+
+       // List<Set<Integer>> list1 = new ArrayList<>();
+
+
+        for (Integer num:  list) {
+            System.out.println(num);
+        }
+
 
         Map<String, String> companies = new HashMap<>();
         companies.put("Microsoft", "Satyla Nadela"); // Entry
@@ -36,6 +51,8 @@ public class Test {
 
         //Integer
         Set<Map.Entry<String, String>> entries = companies.entrySet();
+
+       //  ["Microsoft", "Satyla Nadela", "Microsoft", "Satyla Nadela"]
 
         for ( Map.Entry<String, String> comp : entries) {
 

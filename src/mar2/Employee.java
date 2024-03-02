@@ -32,9 +32,11 @@ public final class Employee {
 
 class MapDemo{
 
+    // Java 7
     public static void main(String[] args) {
         // employee , salary
-       Map<Employee, Integer> map = new HashMap<>();
+       Map<Employee, Integer> map = new HashMap<>(16, 0.75f);
+        // 12
 
        Employee employee1 = new Employee(101, "Dinesh");
        Employee employee2 = new Employee(102, "Pushpender");
@@ -50,6 +52,9 @@ class MapDemo{
 
 
        System.out.println(map);
+
+
+
 
     }
 }
