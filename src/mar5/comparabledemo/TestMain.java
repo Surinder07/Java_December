@@ -1,4 +1,4 @@
-package mar5;
+package mar5.comparabledemo;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -17,6 +17,7 @@ public class TestMain {
         System.out.println(student);
 
 
+
         //  compare the strings
     }
 }
@@ -31,7 +32,7 @@ class Student implements Comparable<Student>{
 
     @Override
     public int compareTo(Student student) {
-        return this.id - student.id;
+        return this.name.compareTo(student.name);
         // 103 - 101 , postive
     }
 

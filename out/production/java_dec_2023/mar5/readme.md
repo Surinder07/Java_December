@@ -1,5 +1,8 @@
 ## Recap 
 
+Revise these before next class. 
+Interfaces and Annoymous class
+
 1. Map ? 
 HashMap ? 
 
@@ -18,6 +21,11 @@ Comparable
 obj1 less than obj2   =======> -1 , negative value 
 obj1 greater than obj2   =======> 1 , positive value 
 obj1 equal obj2 ---> 0
+
+String 
+1. equals 
+2. == 
+3. 
 
 
 
