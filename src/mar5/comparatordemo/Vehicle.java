@@ -17,4 +17,20 @@ public class Vehicle {
                 ", makeYear=" + makeYear +
                 '}';
     }
+
+    public String getBrand() {
+        return brand;
+    }
+
+    public void setBrand(String brand) {
+        this.brand = brand;
+    }
+
+    public int getMakeYear() {
+        return makeYear;
+    }
+
+    public void setMakeYear(int makeYear) {
+        this.makeYear = makeYear;
+    }
 }
